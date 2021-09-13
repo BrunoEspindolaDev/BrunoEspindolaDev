@@ -8,4 +8,5 @@
 I'm a programming enthusiast, I'm in constant learning and I seek, above all, to create solutions that positively impact people's lives. I currently engage in collaborative projects autonomously.
 
 #### My Stack
-![Stack](https://user-images.githubusercontent.com/58474402/133162873-751fae70-7110-441b-9806-b8f3f5bd3cd3.png)
+![Stack](https://user-images.githubusercontent.com/58474402/133164290-d5bfe3aa-b48e-451f-8b87-9ca1daf57f95.png)
+
